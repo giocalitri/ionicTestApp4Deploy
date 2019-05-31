@@ -1,5 +1,7 @@
 {
   "name": "testApp4Deploy",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
